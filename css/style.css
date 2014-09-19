@@ -205,6 +205,8 @@ a.button_slider {
 	-moz-opacity: 0.7;
 	-khtml-opacity: 0.7;
 	opacity: 0.7;
+	width:100% !important;
+	text-align:center;
 }
 a.button_slider:hover {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -227,6 +229,8 @@ a.button_slider_02 {
 	-moz-opacity: 0.7;
 	-khtml-opacity: 0.7;
 	opacity: 0.7;
+	width:100% !important;
+	text-align:center;
 }
 a.button_slider_02:hover {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -3517,4 +3521,16 @@ a.knowmore_but:hover {
     text-indent:-9999px;
     background: url(../images/scroll-top-arrow.png) no-repeat left top;
 	z-index: 999;
+}
+/* Custom */
+.pad-all-5{
+	padding:5px;
+}
+#mobile-banner{
+	padding:50px 0;
+}
+#mobile-banner .tryton{
+	font-size:36pt;
+	font-weight:bold;
+	color:#0a70e3;
 }
