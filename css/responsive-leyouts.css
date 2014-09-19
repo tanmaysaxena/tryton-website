@@ -117,6 +117,7 @@ a.button_slider_02 {
 a.button_slider {
 	padding: 9px 10px;
 	font-size: 14px;
+	width:100% !important;
 }
 
 .punch_text {
@@ -323,6 +324,7 @@ a.show_hide{
 a.button_slider_02 {
 	padding: 9px 10px;
 	font-size: 14px;
+	width:100% !important;
 }
 .features_section1 h2 {
 	line-height: 28px;
@@ -482,7 +484,7 @@ a.button_slider_02 {
 
 a.button_slider {
 	padding: 5px 5px;
-	font-size: 10px;
+	font-size: 14px;
 	border-radius: 2px;
 }
 
@@ -860,7 +862,7 @@ a.show_hide{
 
 a.button_slider_02 {
 	padding: 5px 5px;
-	font-size: 10px;
+	font-size: 14px;
 	border-radius: 2px;
 }
 .features_section1 .one_third {
@@ -1028,8 +1030,9 @@ a.button_slider_02 {
 
 a.button_slider {
 	padding: 3px 2px;
-	font-size: 7px;
+	font-size: 14px;
 	border-radius: 2px;
+	width:100% !important;
 }
 
 .punch_text {
@@ -1563,8 +1566,9 @@ a.show_hide{
 
 a.button_slider_02 {
 	padding: 3px 2px;
-	font-size: 7px;
+	font-size: 14px;
 	border-radius: 2px;
+	width:100% !important;
 }
 .features_section1 .one_third {
 	margin-right: 0%;

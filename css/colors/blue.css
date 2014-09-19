@@ -195,7 +195,7 @@ html ul.tabs-two li.active, html .content_fullwidth ul.tabs-two li.active a,  ht
 	color:#0a70e3;
 }
 html ul.tabs  { 
-	background: #0a70e3;
+	background: none !important;
 }
 html ul.tabs li a  { 
 	background-color: #0a70e3;
