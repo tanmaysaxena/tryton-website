@@ -238,6 +238,29 @@ a.button_slider_02:hover {
 	-khtml-opacity: 1;
 	opacity: 1;
 }
+a.button_slider_03 {
+	float: left;
+	padding: 13px 30px;
+	margin: 0px 0px 0px 0px;
+	font-weight: normal;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	-moz-opacity: 0.7;
+	-khtml-opacity: 0.7;
+	opacity: 0.7;
+	width:100% !important;
+	text-align:center;
+}
+a.button_slider_03:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1;
+}
 
 
 /* fresh projects */
