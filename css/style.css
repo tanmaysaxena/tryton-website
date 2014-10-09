@@ -3557,6 +3557,10 @@ a.knowmore_but:hover {
 	font-weight:bold;
 	color:#0a70e3;
 }
+.isotope-item{
+	min-height:340px !important;
+	height: auto !important;
+}
 .isotope .isotope-item{
 	transition:all .3s;
 }
@@ -3569,4 +3573,11 @@ a.knowmore_but:hover {
 }
 .portfolioContainer.isotope{
 	overflow:visible !important;
+}
+.imgWrap h3{
+	margin-bottom: 0px !important;
+}
+.apps-data{
+	text-align:center;
+	color:#000;
 }
