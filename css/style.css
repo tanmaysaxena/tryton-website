@@ -3564,8 +3564,16 @@ a.knowmore_but:hover {
 .isotope .isotope-item{
 	transition:all .3s;
 }
-.isotope .isotope-item:hover{
-	box-shadow: 0 0 20px #ddd;
+.isotope .isotope-item:hover div.apps-data{
+	position: absolute;
+	transition: all .3s;
+	margin-top: 50%;
+}
+.isotope .isotope-item:hover h3{
+	position: absolute;
+	transition: all .3s;
+	background: rgba(255, 255, 255, 0.8);
+	margin-top: 30%;
 }
 .portfolio_page h3{
 	color:#2283bc;
@@ -3580,4 +3588,20 @@ a.knowmore_but:hover {
 .apps-data{
 	text-align:center;
 	color:#000;
+}
+.carousel-control.right{
+	background: rgba(255, 255, 255, 0) !important;
+}
+.carousel-control.left{
+	background: rgba(255, 255, 255, 0) !important;
+}
+.carousel-control.success-slide{
+	top: 110px;
+	color: #ccc;
+}
+div#success-stories{
+	padding-bottom:50px;
+	padding-left:25px;
+	padding-right:25px;
+	min-height: 830px;
 }
