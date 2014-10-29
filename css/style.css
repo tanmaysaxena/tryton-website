@@ -3588,6 +3588,11 @@ a.knowmore_but:hover {
 .isotope .isotope-item:hover .hover-content > .additional{
 	display: inline-block;
 }
+.isotope .isotope-item .hover-content > p{
+	width: 100%;
+	text-align: center;
+	color: #000;
+}
 .portfolio_page h3{
 	color:#2283bc;
 	background-color:#fff;
